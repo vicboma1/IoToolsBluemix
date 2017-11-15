@@ -3,7 +3,7 @@ App Mobile que enlaza los datos del acelerómetro del dispositivo móvil con el 
 
 ### Esquema Node-RED
 
-![](https://github.com/vicboma1/IoToolsBluemix/blob/master/assets/_ioToolsBluemix.png)
+![](https://github.com/vicboma1/IoToolsBluemix/blob/master/assets/_ioToolsBlumix.png)
 
 La solución se basa en un esquema de nodos que representa el binding del Acelerómetro del dispositivo en una sola gráfica a traves de Node RED
 
