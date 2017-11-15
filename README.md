@@ -1,4 +1,4 @@
-# IoToolsBluemix
+# IoTools Bluemix
 App Mobile que enlaza los datos del acelerómetro del dispositivo móvil con el servico IoT Watson de bluemix a través de una App Node RED
 
 ### Esquema Node-RED
