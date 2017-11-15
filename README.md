@@ -20,7 +20,7 @@ Las extensiones son las siguientes :
 
 ### Pasos a seguir 
 
-1.   Copiar la ![Plantilla txt](https://github.com/vicboma1/IoToolsBluemix/blob/master/assets/_ioToolsBluemix.txt) con "Control A" + "Control C"
+1.   Copiar la ![Plantilla txt](https://raw.githubusercontent.com/vicboma1/IoToolsBluemix/master/assets/_ioToolsBluemix.txt) con "Control A" + "Control C"
 
 2.   Ir al menú contextual de nuestra aplicación Node-RED
 
