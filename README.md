@@ -5,12 +5,18 @@ App Mobile que enlaza los datos del acelerómetro del dispositivo móvil con el 
 
 ![](https://github.com/vicboma1/IoToolsBluemix/blob/master/assets/_ioToolsBlumix.png)
 
-La solución se basa en un esquema de nodos que representa el binding del Acelerómetro del dispositivo en una sola gráfica a traves de Node RED
+La solución se basa en un esquema de nodos que representa el binding del Acelerómetro del dispositivo en una sola gráfica a traves de Node RED.
+
+La aplicación Mobile se llama [Internet of Things(IoT) Dashboard/Gateway - IoTool](https://play.google.com/store/apps/details?id=io.senlab.iotoolapp).
+
+Las extensiones son las siguientes :
+  * [Sensors](https://play.google.com/store/apps/details?id=io.senlab.iotool.serviceandroid)
+  * [Watson cloud](https://play.google.com/store/apps/details?id=io.senlab.iotool.extension.ibmwatsoncloud)
 
 ### Dispositivo móvil
 #### (Click en la imagen para ver video)
 
-[![](https://github.com/vicboma1/IoToolsBluemix/blob/master/assets/_ioToolsBluemix.gif)](http://www.youtube.com/watch?v=5SWKVNh-q2c "IoTools Mobile")
+[![](https://github.com/vicboma1/IoToolsBluemix/blob/master/assets/_ioToolsBluemix.gif)](https://www.youtube.com/watch?v=wiuQ1-Mhpn8 "IoTools Mobile")
 
 ### Pasos a seguir 
 
