@@ -14,7 +14,7 @@ Las extensiones son las siguientes :
   * [Watson cloud](https://play.google.com/store/apps/details?id=io.senlab.iotool.extension.ibmwatsoncloud)
 
 ### Dispositivo móvil
-#### (Click en la imagen para ver video)
+#### (Click en gif para ver video con la App Mobile + Dashboard NodeRED)
 
 [![](https://github.com/vicboma1/IoToolsBluemix/blob/master/assets/_ioToolsBluemix.gif)](https://www.youtube.com/watch?v=wiuQ1-Mhpn8 "IoTools Mobile")
 
